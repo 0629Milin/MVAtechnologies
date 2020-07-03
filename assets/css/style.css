@@ -13,6 +13,11 @@ body {
   color: #444444;
 }
 
+.request-quote{
+  width: 100%;
+  height: 100vh;
+}
+
 a {
   color: #1acc8d;
 }
